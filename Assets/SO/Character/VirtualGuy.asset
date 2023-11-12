@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 41bcdf4824b07cb4ca64df723f7a703e, type: 3}
-  m_Name: newCharacter
+  m_Name: VirtualGuy
   m_EditorClassIdentifier: 
-  Name: 
-  Descrption: 
-  Agility: 
-  Health: 0
-  Portrait: {fileID: 0}
+  Name: VirualGuy
+  Descrption: "VR\uC744 \uC88B\uC544\uD55C\uB2E4."
+  Agility: 5
+  Health: 10
+  Portrait: {fileID: -6367560908665664636, guid: 40de9a8703e2e5a47882b0b86451c741, type: 3}
